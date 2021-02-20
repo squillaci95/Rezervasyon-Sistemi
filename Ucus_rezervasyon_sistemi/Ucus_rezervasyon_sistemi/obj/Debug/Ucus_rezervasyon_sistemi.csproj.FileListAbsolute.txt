@@ -1,0 +1,9 @@
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\bin\Debug\Ucus_rezervasyon_sistemi.exe.config
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\bin\Debug\Ucus_rezervasyon_sistemi.exe
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\bin\Debug\Ucus_rezervasyon_sistemi.pdb
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.Form1.resources
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.Properties.Resources.resources
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.exe
+C:\Users\muham\Desktop\C# Çalışmalar\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.pdb
